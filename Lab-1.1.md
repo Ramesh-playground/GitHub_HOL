@@ -11,7 +11,7 @@ Learn how to create a new repository using a template repository in GitHub and h
 
 ## Task-1: Create a Repository
 
-## Steps to Follow
+### Steps to Follow
 1. Navigate to the **template repository** https://github.com/Matrixcomsec-training/GitHub_training
    
 2. Click the **"Use this template"** button.
@@ -33,7 +33,7 @@ Learn how to create a new repository using a template repository in GitHub and h
 
 ## Task-2: Add a User to GitHub Repo and Provide Write Access
 
-## Steps to Follow
+### Steps to Follow
 1. Navigate to the **Settings** tab of the GitHub repository.
 
   ![image](https://github.com/user-attachments/assets/523b30b8-c591-41c3-a218-5bf2b20d8f23)
