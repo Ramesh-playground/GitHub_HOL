@@ -1,4 +1,4 @@
-# 2.3 Create Pull Request and Merge Changes to Main Branch
+# Create Pull Request and Merge Changes to Main Branch
 
 ### Task-1: Create a New Pull Request
 1. Open your repository in GitHub.
