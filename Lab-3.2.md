@@ -1,4 +1,4 @@
-# 3.2 Create CI/CD workflow
+# Create CI/CD workflow
 
 ### Task-1 Create a new CI Workflow
 1. In the `.github/workflows` directory, create a file named 'space-game.yml'
