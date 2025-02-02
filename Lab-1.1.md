@@ -15,7 +15,8 @@ Learn how to create a new repository using a template repository in GitHub and h
    
 2. Click the **"Use this template"** button.
 
-![image](https://github.com/user-attachments/assets/a918d303-ad1d-4be1-8016-8f5959026574)
+![image](https://github.com/user-attachments/assets/ce5372e4-265f-41a7-a30a-6af443e64999)
+
 
 3. Fill in the required fields:
    - Select the owner **your-github-handle** organization.
@@ -24,7 +25,7 @@ Learn how to create a new repository using a template repository in GitHub and h
    - Set visibility (**public**).
    - Click **"Create repository"**.
      
-   ![image](https://github.com/user-attachments/assets/0df7f4b9-390a-454a-a5bd-fb7887e9ae57)
+   ![image](https://github.com/user-attachments/assets/4fec3eac-d64f-4c8e-b7da-cded1d37519e)
 
 
 4. Open the newly created repository and explore its structure. 
@@ -34,23 +35,18 @@ Learn how to create a new repository using a template repository in GitHub and h
 
 ### Steps to Follow
 1. Navigate to the **Settings** tab of the GitHub repository.
-
-  ![image](https://github.com/user-attachments/assets/523b30b8-c591-41c3-a218-5bf2b20d8f23)
- 
-
 2. Click **Collaborators and teams** under the **Access** section.
-
-   ![image](https://github.com/user-attachments/assets/fc3fc580-29d2-496a-8d1d-a46877862ac4)
-
-
 3. Click **Add people**.
    
-  ![image](https://github.com/user-attachments/assets/61b71bcb-48d6-4600-9bdd-c11bce8779b2)
+  ![image](https://github.com/user-attachments/assets/28159c5a-a09e-41de-8e09-37b06ec4cb79)
 
 
-4. Enter the GitHub username or email address of the colleague.  
 
-![image](https://github.com/user-attachments/assets/b70badda-b3f8-4ca0-9a93-e0c323d9e1e0)
+4. Enter the GitHub username or email address of the colleague.
+5. Add user to the repository.  
+
+![image](https://github.com/user-attachments/assets/c1b28283-a11a-4fc6-ac5a-310d1ae625c9)
+
 
   
 5. Assign **Write** permissions and Click **Add user**
