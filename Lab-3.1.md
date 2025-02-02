@@ -11,7 +11,6 @@ This hands on lab consists of the following steps:
 - [Only trigger workflow when a change is made to the website](#only-trigger-workflow-when-a-change-is-made-to-the-website)
 - [Only trigger workflow on new issue created](#only-trigger-workflow-on-new-issue-created)
 - [Create a Matrix build for release and debug](#create-a-matrix-build-for-release-and-debug)
-- [If time permits Create a deployment workflow](#if-time-permits-create-a-deployment-workflow)
 
 ## Enabling Github Actions
 1. Work inside your current repository `Martixcomsec-training/attendee-<your-github-handle>`
