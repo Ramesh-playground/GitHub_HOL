@@ -5,21 +5,20 @@ Learn how to create a new repository using a template repository in GitHub and h
 
 ## Prerequisites
 - You must have a **GitHub account**. If you don't have, see "[Creating an account on GitHub.](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)"
-- Access to Organization **Matrixcomsec-training**
 - Basic knowledge of GitHub repositories.
 - The GitHub username or email address of the user you want to invite.
 
 ## Task-1: Create a Repository
 
 ### Steps to Follow
-1. Navigate to the **template repository** https://github.com/Matrixcomsec-training/GitHub_training
+1. Navigate to the **template repository** https://github.com/CanarysPlayground/GitHub_training
    
 2. Click the **"Use this template"** button.
 
 ![image](https://github.com/user-attachments/assets/a918d303-ad1d-4be1-8016-8f5959026574)
 
 3. Fill in the required fields:
-   - Select the owner **Matrixcomsec-training** organization.
+   - Select the owner **your-github-handle** organization.
    - **Repository Name**: `attendee-<your-github-handle`>.
    - **Description**: `Repository created from a template for exercises`.
    - Set visibility (**public**).
