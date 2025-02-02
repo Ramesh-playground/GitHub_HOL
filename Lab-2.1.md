@@ -61,28 +61,28 @@ Learn how to configure branch protection policies for the default branch of a Gi
    - **Description**:
 
  ```
- `Index.cshtml` file in the `Tailspin.SpaceGame.Web/Views/Home` directory needs improvements
- to enhance code quality, performance, and maintainability.
+ `Index.cshtml` file in the `Tailspin.SpaceGame.Web/Views/Home` directory needs improvements to enhance code quality, performance, and maintainability.
 
 ## Task
 ### Code Cleanup
-- Remove any commented-out code and unnecessary whitespace.
-- Ensure consistent code formatting and indentation.
+- [ ] Remove any commented-out code and unnecessary whitespace.
+- [ ] Ensure consistent code formatting and indentation.
 
 ### Performance Optimization
-- Optimize Razor syntax to improve rendering performance.
-- Minimize the use of inline styles and scripts.
+- [ ] Optimize Razor syntax to improve rendering performance.
+- [ ] Minimize the use of inline styles and scripts.
 
 ### Bug Fixes
-- Identify and fix any existing bugs or issues in the file.
-- Ensure the page works correctly across different browsers and devices.
+- [ ] Identify and fix any existing bugs or issues in the file.
+- [ ] Ensure the page works correctly across different browsers and devices.
+ 
 
 ```
 
 ![image](https://github.com/user-attachments/assets/a7cda0a2-8eef-47e0-8bfb-7868449cc386)
 
 
-5. Assign the issue to yourself or a team member and click **Submit**.
+5. Assign the issue to yourself or a team member and click **Create**.
 
    ![image](https://github.com/user-attachments/assets/1f2d0981-b32a-446b-8956-288d49633b02)
 
