@@ -62,9 +62,11 @@ You can create your first GitHub Codespace and learn how you can use Codespaces 
 1. Navigate to your current repository
 2. Under the repository name, use the  Code drop-down menu, and in the Codespaces tab, click Create codespace on main.
 
-![codespace-1](../images/codespace-new.png)
+![image](https://github.com/user-attachments/assets/4f529c8b-e8bc-4162-aa53-2f50fe96dc46)
 
-![codespace-2](../images/codespace-ide.png)
+
+![image](https://github.com/user-attachments/assets/41535405-92ce-44a9-bfe7-10de42c81a8c)
+
 
 ### Develop and push in a codespace
 1. In the code folder open the readme.md file
@@ -82,11 +84,13 @@ git push
 ```
 5. You have now pushed code to your main repo! Codespace should look like this.
 
-![codespace-3](../images/changes-codespace.png)
+![image](https://github.com/user-attachments/assets/80104fc1-9057-43e5-9aa1-891b0f046614)
+
 
 6. You can see the changes you have made in repo
 
-![codespace-3](../images/repo-changes.png)
+![image](https://github.com/user-attachments/assets/71796170-0df0-4e06-bc38-b820640792e9)
+
 
 ## Outcome
 
