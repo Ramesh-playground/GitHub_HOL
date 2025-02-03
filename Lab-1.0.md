@@ -29,32 +29,7 @@ Learn how to create a new repository in GitHub and how to add a user as a collab
 
 7. Open the newly created repository and explore its structure. 
 
-
-## Task-2: Add a User to GitHub Repo and Provide Write Access
-
-### Steps to Follow
-1. Navigate to the **Settings** tab of the GitHub repository.
-2. Click **Collaborators and teams** under the **Access** section.
-3. Click **Add people**.
-   
-  ![image](https://github.com/user-attachments/assets/28159c5a-a09e-41de-8e09-37b06ec4cb79)
-
-
-
-4. Enter the GitHub username or email address of the colleague.
-5. Add user to the repository.  
-
-![image](https://github.com/user-attachments/assets/c1b28283-a11a-4fc6-ac5a-310d1ae625c9)
-
-
-  
-5. Assign **Write** permissions and Click **Add user**
-
-   ![image](https://github.com/user-attachments/assets/8ad107b1-52ed-4ac5-8442-fefb024f9300)
-
-
-
-## Task-3 Creating your first Codespace
+## Task-2 Creating your first Codespace
 
 You can create your first GitHub Codespace and learn how you can use Codespaces to work from anywhere from a browser. If you like more background information, please refer to the [GitHub Codespaces](https://docs.github.com/en/codespaces) pages on GitHub Docs.
 
@@ -68,7 +43,7 @@ You can create your first GitHub Codespace and learn how you can use Codespaces 
 ![image](https://github.com/user-attachments/assets/41535405-92ce-44a9-bfe7-10de42c81a8c)
 
 
-### Develop and push in a codespace
+## Task-3 Develop and push in a codespace
 1. In the code folder open the readme.md file
 2. Add the following in the readme.md file
 ```
@@ -97,8 +72,6 @@ git push
 By completing this exercise, you will:
 - Understand how to create a repository.
 - Be familiar with setting repository metadata such as name, description, and visibility.
-- Explore the initial structure of a repository created from a template.
-- Understand how to add collaborators to a GitHub repository.
-- Learn to assign appropriate permissions to control access levels.
-- Enable effective collaboration by providing the necessary access rights to team members.
+- Explore the initial structure of a repository created.
 - Creating your first Codespace
+- Develop and push using codespace.
