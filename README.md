@@ -4,6 +4,7 @@ Welcome to the GitHub Hands-On Labs repository. This repository contains a serie
 
 ## Labs
 
+
 1. [Create a Repository Using a Template](Lab-1.1.md)
    - **Objective**: Learn how to create a new repository using a template repository in GitHub and how to add a user as a collaborator to a GitHub repository and assign appropriate permissions.
    - **Tasks**:
