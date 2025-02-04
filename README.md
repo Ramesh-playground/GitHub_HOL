@@ -52,6 +52,13 @@ Welcome to the GitHub Hands-On Labs repository. This repository contains a serie
      - Create and view a workflow.
      - Trigger workflows based on specific events.
 
+8. [Create CI/CD Workflow](Lab-3.2.md)
+   - **Objective**: Set up a CI/CD workflow using GitHub Actions.
+   - **Tasks**:
+     - Create a new CI workflow.
+     - Create development and production environments.
+     - Deploy changes to the environments.
+
 Each lab provides step-by-step instructions to help you complete the tasks and achieve the learning objectives. Click on the links above to navigate to the respective lab files.
 
 Happy Learning!
